@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{F1B018FC-42A0-0004-F995-0EB580816E33}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "FeatureProject",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
